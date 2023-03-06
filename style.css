@@ -1,0 +1,44 @@
+h1 {
+    font-family: sans-serif;
+    color: #c24040;
+    background-color: rgb(197, 187, 45);
+
+    text-align: center;
+
+}
+
+.check1 {
+    font-size: 2rem;
+    font-weight: 600;
+    padding: 1.75rem 3.5rem;
+    margin: 5rem 2rem;
+    border: none;
+    background-color: #ebf3e5;
+    color: #444;
+    border-radius: 10rem;
+    cursor: pointer;
+}
+
+.check2 {
+    font-size: 2rem;
+    font-weight: 600;
+    padding: 1.75rem 3.5rem;
+    margin: 5rem 2rem;
+    border: none;
+    background-color: #ebf3e5;
+    color: #444;
+    border-radius: 10rem;
+    cursor: pointer;
+}
+
+.check3 {
+    font-size: 2rem;
+    font-weight: 600;
+    padding: 1.75rem 3.5rem;
+    margin: 5rem 2rem;
+    border: none;
+    background-color: #ebf3e5;
+    color: #444;
+    border-radius: 10rem;
+    cursor: pointer;
+}
